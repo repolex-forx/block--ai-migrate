@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/ai-migrate/commit/573536ef6a640726b3bf7f950724b17f193984ea",
       "git:hexsha": "573536ef6a640726b3bf7f950724b17f193984ea",
-      "repolex:parseStatus": "ast_complete",
+      "repolex:parseStatus": "enrich_complete",
       "git:tagName": "main"
     },
     {

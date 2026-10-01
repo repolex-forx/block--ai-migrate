@@ -71,6 +71,120 @@
       ],
       "ast": [
         "aggregate/ast/573536ef6a640726b3bf7f950724b17f193984ea/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/573536ef6a640726b3bf7f950724b17f193984ea.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "httpx",
+          "ecosystem": "PYPI",
+          "version": "0.24.0",
+          "githubOrg": "encode",
+          "githubRepo": "httpx",
+          "githubCommit": "579a3f2fb8e1ebd151b8f3a6c1e9bc6dedf5f5bd",
+          "githubTag": "0.24.0",
+          "githubUrl": "https://github.com/encode/httpx",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "openai",
+          "ecosystem": "PYPI",
+          "version": "1.0.0",
+          "githubOrg": "openai",
+          "githubRepo": "openai-python",
+          "githubCommit": "08b8179a6b3e46ca8eb117f819cc6563ae74e27d",
+          "githubTag": "v1.0.0",
+          "githubUrl": "https://github.com/openai/openai-python",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "9.1.1",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "cf470ec0bf7eb89cd97dd56df4859eae5db46447",
+          "githubTag": "9.1.1",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-asyncio",
+          "ecosystem": "PYPI",
+          "version": "1.4.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-asyncio",
+          "githubCommit": "6e14cd2af9292dca1fa2b027a06bbc40b0e0e425",
+          "githubTag": "v1.4.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-asyncio",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "click",
+          "ecosystem": "PYPI",
+          "version": "8.1.0",
+          "githubOrg": "pallets",
+          "githubRepo": "click",
+          "githubCommit": "e4aceee8d2bf7fe9461915b0a21c4359ddcb8dc2",
+          "githubTag": "8.1.0",
+          "githubUrl": "https://github.com/pallets/click",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "rich",
+          "ecosystem": "PYPI",
+          "version": "13.0.0",
+          "githubOrg": "Textualize",
+          "githubRepo": "rich",
+          "githubCommit": "d14b304aa45bf0759729f4e066606065daa341c8",
+          "githubTag": "v13.0.0",
+          "githubUrl": "https://github.com/Textualize/rich",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "prompt-toolkit",
+          "ecosystem": "PYPI",
+          "version": "3.0.0",
+          "githubOrg": "prompt-toolkit",
+          "githubRepo": "python-prompt-toolkit",
+          "githubCommit": "4cbbf8b9db1cb11caa1d72f4200c5cbc48bfd384",
+          "githubTag": "3.0.0",
+          "githubUrl": "https://github.com/prompt-toolkit/python-prompt-toolkit",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "tiktoken",
+          "ecosystem": "PYPI",
+          "version": "0.9.0",
+          "githubOrg": "openai",
+          "githubRepo": "tiktoken",
+          "githubCommit": "e35ab0915e37b919946b70947f1d0854196cb72c",
+          "githubTag": "0.9.0",
+          "githubUrl": "https://github.com/openai/tiktoken",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pydantic-ai-slim",
+          "ecosystem": "PYPI",
+          "version": "0.0.48",
+          "githubOrg": "pydantic",
+          "githubRepo": "pydantic-ai",
+          "githubCommit": "007d9d1d3577b6c185da7c9f07b0e9bec065dcd4",
+          "githubTag": "v0.0.48",
+          "githubUrl": "https://github.com/pydantic/pydantic-ai",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pydantic",
+          "ecosystem": "PYPI",
+          "version": "2.13.5",
+          "githubOrg": "pydantic",
+          "githubRepo": "pydantic",
+          "githubCommit": "001dea020e0809844e5b17666432c9135a976f46",
+          "githubTag": "v2.13.5",
+          "githubUrl": "https://github.com/pydantic/pydantic",
+          "source": "lsp",
+          "install_path": "/home/runner/.local/share/uv/tools/repolex/lib/python3.14/site-packages/pydantic/main.py"
+        }
       ]
     }
   ],
