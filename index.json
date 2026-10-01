@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "ai-migrate",
+  "versions": [
+    {
+      "commit": "573536ef6a640726b3bf7f950724b17f193984ea",
+      "tag": "main",
+      "parsed_at": "2026-10-01T08:13:07.717027+00:00"
+    }
+  ]
+}
